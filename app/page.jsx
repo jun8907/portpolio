@@ -49,6 +49,12 @@ export default function Home() {
           <h1 className="call">010-5145-8907</h1>
           <h1 className="email">jjun704@naver.com</h1>
           <h1 className="major">중부대학교 정보보호학과</h1>
+          <div className="career">
+            <h1>활동 이력</h1>
+            <p>- ict 멘토링 한이음 활동</p>
+            <p>- ict 멘토링 스마트해상물류 활동</p>
+            <p>- 웹 개발 스터디 참여</p>
+          </div>
         </div>
       </div>
       <div id="section3" className="project">
@@ -69,6 +75,23 @@ export default function Home() {
           </p>
           <p>
             <a href="https://clerk2-21wv.vercel.app/">웹 서비스 주소</a>
+          </p>
+        </div>
+        <div className="dapara">
+          <img src="/img/dapara.png" alt="globals.css" />
+          <p>
+            <a href="https://github.com/jun8907/dapara1">GitHub 바로가기</a>
+          </p>
+          <p>
+            <a href="https://dapara1-theta.vercel.app/">웹 서비스 주소</a>
+          </p>
+        </div>
+        <div className="crud">
+          <img src="/img/crud.png" alt="globals.css" />
+          <p>
+            <a href="https://github.com/jun8907/mongodb-crud">
+              GitHub 바로가기
+            </a>
           </p>
         </div>
       </div>
@@ -107,14 +130,18 @@ export default function Home() {
         <h2>Introduce</h2>
         <div>
           <h3>
-            <p className="large">웹 사이트 이름: 홍이김송윤</p>
+            <p className="large">웹 사이트 이름: Admin</p>
             <p>
               선정이유 : 스터디를 진행하고 있는데 비공식이던 공식이던 동아리
               가입 요청을 해서 승인받는 사이트를 만들고 싶었다.
             </p>
+            <p className="teamplay">
+              <img src="/img/teamplay.png" alt="globals.css" />
+            </p>
             <p>
-              동아리로 하면 너무 한정적이어서 여러개를 승인해 줄 수 있는
-              사이트를 만들기로 했다.
+              <a href="https://youtu.be/nOBNgjD9hj4">
+                시연 영상 https://youtu.be/nOBNgjD9hj4
+              </a>
             </p>
           </h3>
         </div>
