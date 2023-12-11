@@ -139,8 +139,8 @@ export default function Home() {
               <img src="/img/teamplay.png" alt="globals.css" />
             </p>
             <p>
-              <a href="https://youtu.be/nOBNgjD9hj4">
-                시연 영상 https://youtu.be/nOBNgjD9hj4
+              <a href="https://team-roan-two.vercel.app/">
+                웹서비스 주소 https://team-roan-two.vercel.app/
               </a>
             </p>
           </h3>
